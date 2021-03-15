@@ -6,3 +6,4 @@ This project is developed for Kodluyoruz-Mobil Oyun Bootcamp, including:
 - [Şevval Katırcı](https://github.com/sevvalkatirci)
 - [Gülnihal Koruk](https://github.com/gulnihalk)
 
+[Youtube Link] (https://youtu.be/yZe2TSqWsEI)
